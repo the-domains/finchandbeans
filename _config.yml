@@ -1,7 +1,7 @@
 name: finchandbeans
 favicon: null
-layout_spectrum: 0.33457643003202975
-typography_spectrum: 0.44583391514606774
+layout_spectrum: 0.97684
+typography_spectrum: 0.30126
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4303629747591913
+  brandStrength: 0.0625
   lightness: 0.4933868816588074
   saturation: 0.7180709021631628
   rhythmicContrast: 0.8180212418083102
