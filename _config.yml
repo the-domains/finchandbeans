@@ -2,6 +2,7 @@ name: finchandbeans
 favicon: null
 layout_spectrum: 0.97684
 typography_spectrum: 0.30126
+title: 'Finch and Beans!'
 cta:
   domain: null
   bucket: null
